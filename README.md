@@ -74,36 +74,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 📈 Reinforcement Learning Stock Trading Agent  
-**Python, TensorFlow, Stable-Baselines3, MySQL**
-
-- 🧠 Built **DQN-based trading agent** trained on **10,000+ data points**  
-- 🏗️ Created **custom OpenAI Gym environment** with 2+ years of market data  
-- 🎯 Achieved **95% accuracy** on buy/sell signals over 500+ test scenarios  
-
----
-
-### 🖐️ Virtual Keyboard with Hand Tracking  
-**Python, OpenCV, MediaPipe, Tkinter**
-
-- ⌨️ Built CV-based keyboard supporting **26 alphabets + 10 numbers**  
-- 🚀 Achieved **95% keystroke accuracy** with real-time feedback  
-- 🤚 Used **MediaPipe (21 hand landmarks)**, tested on 1,000+ gestures  
-- ☁️ Deployed on **AWS**  
-
----
-
-### 🧠 Namaste AI — Generative Mental Health Chatbot  
-**Python, OpenAI API, Ollama, MySQL**
-
-- 💬 Built empathetic **AI chatbot** for stress, trauma & anxiety support  
-- 📊 Added **sentiment analysis & risk detection** with helpline suggestions  
-- 🧪 Fine-tuned LLM → **90% accuracy** in crisis detection  
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
